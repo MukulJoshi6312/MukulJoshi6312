@@ -14,7 +14,7 @@
 - 🌱 I’m improving skills in: `Next.js`, `TypeScript`, `Tailwind CSS`, `SaaS Projects`  
 - 🧠 I’m learning: `System Design`, `DSA`, and `AI tools integration`  
 - 👯 I’m looking to collaborate on: `Open Source`, `Frontend Projects`  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mukuljoshi/)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MukulJoshi6312/)  
 - 🧰 Tech Stack: `React.js`, `JavaScript`, `Next.js`, `Redux`, `HTML`, `CSS`, `Tailwind`, `Node.js`
 
 ---
@@ -28,22 +28,22 @@
 
 ### 📊 GitHub Stats (Auto Light/Dark Mode):
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukulJoshi&show_icons=true&theme=default#gh-dark-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MukulJoshi&show_icons=true&theme=dark#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=default#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=dark#gh-light-mode-only" />
 </div>
 
 ---
 
 ### 🧩 GitHub Contributions Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MukulJoshi&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MukulJoshi6312&theme=react-dark&area=true" />
 </p>
 
 ---
 
 ### 📫 Let’s Connect:
 <p align="center">
-  <a href="https://linkedin.com/in/mukuljoshi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/MukulJoshi6312"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mukul@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
