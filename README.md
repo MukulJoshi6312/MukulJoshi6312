@@ -35,7 +35,9 @@
 
 ### 🧩 GitHub Contributions Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MukulJoshi6312&theme=react-dark&area=true" />
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MukulJoshi6312&theme=react-dark&area=true" /> -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&theme=react-dark" /> 
+
 </p>
 
 ---
