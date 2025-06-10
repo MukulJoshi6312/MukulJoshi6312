@@ -1,7 +1,7 @@
 <!-- Dark/Light Theme Responsive GitHub README by Mukul -->
 
 <h1 align="center">Hi 👋, I'm Mukul Joshi</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Mern FullStack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=435&lines=React.js+Developer;Frontend+Engineer;MERN+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
