@@ -28,7 +28,19 @@
 
 ### 📊 GitHub Stats (Auto Light/Dark Mode):
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=default#gh-dark-mode-only" />
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=dark" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=default" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=default" 
+  />
+</picture>
 </div>
 
 ---
