@@ -15,7 +15,7 @@
 - 🧠 I’m learning: `System Design`, `DSA`, and `AI tools integration`  
 - 👯 I’m looking to collaborate on: `Open Source`, `Frontend Projects`  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mukul-joshi-661234193/)  
-- 🧰 Tech Stack: `React.js`, `JavaScript`, `Next.js`, `Redux`, `HTML`, `CSS`, `Tailwind`, `Node.js`,`MongoDB`,'Express.Js',`Firebase`,`MySql`,`Java`,`DSA`
+- 🧰 Tech Stack: `React.js`, `JavaScript`, `Next.js`, `ReactNative`,`Redux`, `HTML`, `CSS`, `Tailwind`, `Node.js`,`MongoDB`,'Express.Js',`Firebase`,`MySql`,`Java`,`DSA`
 
 ---
 
