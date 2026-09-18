@@ -4,13 +4,17 @@ on:
   schedule:
     - cron: "0 0 * * *"   # every day at 00:00 UTC
   workflow_dispatch:       # run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - ".github/profile-kit/**"   # rebuild when you edit projects.json
 
 permissions:
   contents: write
 
 env:
-  # colours match assets/hero.svg
-  CARD_THEME: bg_color=0E1726&title_color=E8EEF6&text_color=93A6C2&icon_color=F2A93B&hide_border=true&border_radius=22
+  DARK: bg_color=0E1726&title_color=E8EEF6&text_color=93A6C2&icon_color=F2A93B&hide_border=true&border_radius=22
+  LIGHT: bg_color=F5F8FC&title_color=0E1726&text_color=4F607A&icon_color=B8720C&hide_border=true&border_radius=22
 
 jobs:
   build:
@@ -18,33 +22,63 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats card
+      # ---------- hero, footer, project cards, "recently pushed" ----------
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build hero, cards and README sections
+        run: |
+          pip install --quiet fonttools
+          python .github/profile-kit/build.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ---------- stats cards ----------
+      - name: Stats (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&${{ env.CARD_THEME }}
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&${{ env.DARK }}
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Top languages card
+      - name: Stats (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&${{ env.LIGHT }}
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Top languages (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&${{ env.CARD_THEME }}
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&${{ env.DARK }}
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&${{ env.LIGHT }}
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # ---------- contribution snake ----------
       - name: Contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/snake.svg?color_snake=#F2A93B&color_dots=#15223A,#1F3A66,#2F5D98,#3F77BF,#4C8EDA
+            profile/snake-dark.svg?color_snake=#F2A93B&color_dots=#15223A,#1F3A66,#2F5D98,#3F77BF,#4C8EDA
+            profile/snake-light.svg?color_snake=#B8720C&color_dots=#E6ECF4,#BFD3EE,#8DB2E3,#5A8ED3,#2F6FBF
 
-      - name: Commit cards
+      # ---------- commit ----------
+      - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile
-          git commit -m "chore: update profile cards" || echo "No changes to commit"
+          git add -A profile assets README.md
+          git diff --cached --quiet && echo "Nothing changed" && exit 0
+          git commit -m "chore: refresh profile cards"
+          git pull --rebase --quiet
           git push

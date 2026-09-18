@@ -1,0 +1,35 @@
+{
+  "_help": "Edit this file to change the project cards. 'layers' can include web, app, api, db. Cards rebuild every day (or run the workflow by hand).",
+  "featured": [
+    {
+      "repo": "website-builder",
+      "title": "Website Builder",
+      "description": "Drag-and-drop site builder. Pages are saved as JSON block trees in MongoDB, and one SSR renderer serves every published site by hostname, with per-site analytics.",
+      "stack": ["React", "TypeScript", "Express", "MongoDB"],
+      "layers": ["web", "api", "db"]
+    },
+    {
+      "repo": "gymApp",
+      "title": "AI Fitness Coach",
+      "description": "Expo mobile app with a Node API on PostgreSQL and Redis: JWT with rotating refresh tokens, role-based access and rate limiting.",
+      "stack": ["React Native", "Express", "PostgreSQL", "Redis"],
+      "layers": ["app", "api", "db"]
+    },
+    {
+      "repo": "MukulsPortfolio",
+      "title": "Portfolio",
+      "description": "My personal site in Next.js, with interactive 3D scenes built on React Three Fiber and motion by Framer Motion.",
+      "stack": ["Next.js", "Three.js", "Framer Motion"],
+      "layers": ["web"]
+    },
+    {
+      "repo": "Startup",
+      "title": "Startup Agency Site",
+      "description": "Marketing site for a software and media agency, with schema-validated enquiry forms wired to its own Node backend.",
+      "stack": ["React", "Zod", "Framer Motion", "Node.js"],
+      "layers": ["web", "api"]
+    }
+  ],
+  "recent_exclude": ["MukulJoshi6312"],
+  "recent_count": 6
+}
