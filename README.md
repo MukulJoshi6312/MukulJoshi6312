@@ -1,72 +1,69 @@
-<!-- Dark/Light Theme Responsive GitHub README by Mukul -->
+<a href="https://github.com/MukulJoshi6312">
+  <img src="./assets/hero.svg" width="100%" alt="Mukul Joshi, full-stack developer. I build both ends of the wire: React on the front, Node and MongoDB behind it."/>
+</a>
 
-<h1 align="center">Hi 👋, I'm Mukul Joshi</h1>
-<h3 align="center">A passionate Mern FullStack Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=435&lines=React.js+Developer;Frontend+Engineer;MERN+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+<p>
+  <a href="https://www.linkedin.com/in/mukul-joshi-661234193/"><img src="https://img.shields.io/badge/LinkedIn-15223A?style=flat-square&logo=linkedin&logoColor=E8EEF6" alt="LinkedIn"/></a>
+  <a href="mailto:mukuljoshi6312@gmail.com"><img src="https://img.shields.io/badge/mukuljoshi6312@gmail.com-15223A?style=flat-square&logo=gmail&logoColor=E8EEF6" alt="Email"/></a>
+  <a href="https://www.instagram.com/mukul8466/"><img src="https://img.shields.io/badge/Instagram-15223A?style=flat-square&logo=instagram&logoColor=E8EEF6" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MukulJoshi6312&style=flat-square&color=4C8EDA&label=profile+views" alt="Profile views"/>
 </p>
 
----
+## About
 
-### 🔥 About Me
-- 🔭 I’m currently working as: **FullStack Developer**  
-- 🌱 I’m improving skills in: `Next.js`, `TypeScript`, `Tailwind CSS`, `SaaS Projects`  
-- 🧠 I’m learning: `System Design`, `DSA`, and `AI tools integration`  
-- 👯 I’m looking to collaborate on: `Open Source`, `Frontend Projects`  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mukul-joshi-661234193/)  
-- 🧰 Tech Stack: `React.js`, `JavaScript`, `Next.js`, `ReactNative`,`Redux`, `HTML`, `CSS`, `Tailwind`, `Node.js`,`MongoDB`,'Express.Js',`Firebase`,`MySql`,`Java`,`DSA`
+I like owning a feature from the button someone clicks to the document it writes in the database. Most days that means React and Next.js on the front, Express and Node in the middle, and MongoDB underneath, with TypeScript holding it all together.
 
----
+- **Building:** SaaS products with Next.js, TypeScript and Tailwind CSS
+- **Learning:** system design, DSA, and wiring AI tools into real apps
+- **Open to:** open source, frontend work, and freelance projects
+- **Ask me about:** React performance, REST APIs, MERN architecture
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,mongodb,vscode,github,git,firebase,mysql,java,c,googlecloud" />
+My rule: consistency beats talent when talent doesn't show up. Also, I genuinely enjoy debugging.
+
+## Stack, end to end
+
+| Layer | Tools |
+| :--- | :--- |
+| **Client** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind" height="40" alt="React, Next.js, Redux, TypeScript, JavaScript, HTML, CSS, Tailwind"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native"/> React Native |
+| **API** | <img src="https://skillicons.dev/icons?i=nodejs,express,java,c" height="40" alt="Node.js, Express, Java, C"/> |
+| **Data & cloud** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp" height="40" alt="MongoDB, MySQL, Firebase, Google Cloud"/> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Git, GitHub, VS Code"/> |
+
+## Selected work
+
+<!--
+  Replace these with your 3 best repos. For each one:
+  1. Record a 5–10 second GIF of it working (ScreenToGif / Kap / LICEcap) and drop it in /assets.
+  2. Write ONE line on the problem it solves and a real result.
+  A GIF of your app running beats any badge or animation on this page.
+-->
+
+### [Project name](https://github.com/MukulJoshi6312/REPO)
+One line on the problem it solves and one real result, like "cut checkout time in half" or "used by 200 students".
+`Next.js` `TypeScript` `MongoDB` · [Live demo](https://example.com) · [Source](https://github.com/MukulJoshi6312/REPO)
+
+<!-- <img src="./assets/project-1.gif" width="100%" alt="Project name demo"/> -->
+
+### [Project name](https://github.com/MukulJoshi6312/REPO)
+One line on the problem it solves and one real result.
+`React` `Node.js` `Express` · [Live demo](https://example.com) · [Source](https://github.com/MukulJoshi6312/REPO)
+
+### [Project name](https://github.com/MukulJoshi6312/REPO)
+One line on the problem it solves and one real result.
+`React Native` `Firebase` · [Live demo](https://example.com) · [Source](https://github.com/MukulJoshi6312/REPO)
+
+## Activity
+
+<p>
+  <img src="./profile/stats.svg" height="180" alt="GitHub stats"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Most used languages"/>
 </p>
 
----
+<img src="https://streak-stats.demolab.com?user=MukulJoshi6312&hide_border=true&border_radius=22&background=0E1726&stroke=2B3D5C&ring=F2A93B&fire=F2A93B&currStreakNum=E8EEF6&sideNums=E8EEF6&currStreakLabel=F2A93B&sideLabels=93A6C2&dates=93A6C2" alt="Contribution streak"/>
 
-### 📊 GitHub Stats (Auto Light/Dark Mode):
-<div align="center">
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=dark" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=default" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MukulJoshi6312&show_icons=true&theme=default" 
-  />
-</picture>
-</div>
+<img src="./profile/snake.svg" width="100%" alt="A snake eating my contribution graph"/>
 
----
+<br/>
 
-### 🧩 GitHub Contributions Graph
-<p align="center">
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MukulJoshi6312&theme=react-dark&area=true" /> -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuljoshi6312&theme=react-dark" /> 
-
-</p>
-
----
-
-### 📫 Let’s Connect:
-<p align="center">
-  <a href="https://www.linkedin.com/in/mukul-joshi-661234193/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mukuljoshi6312@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mukul8466/?hl=en"><img src="https://img.shields.io/badge/-Instagaram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 🧠 Quote to Live By
-> “Consistency beats talent when talent doesn’t show up.”
-
----
-
-### ⚡ Fun Fact
-> I can spend hours debugging... and love every second of it. 😄
+<img src="./assets/footer.svg" width="100%" alt="Thanks for reading."/>
