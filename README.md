@@ -9,7 +9,7 @@
 <p>
   <a href="https://mukuls-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4C8EDA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mukul-joshi-661234193/"><img src="https://img.shields.io/badge/LinkedIn-15223A?style=flat-square&logo=linkedin&logoColor=E8EEF6" alt="LinkedIn"/></a>
-  <a href="mailto:mukuljoshi.dev@gmail.com"><img src="https://img.shields.io/badge/mukuljoshi6312@gmail.com-15223A?style=flat-square&logo=gmail&logoColor=E8EEF6" alt="Email"/></a>
+  <a href="mailto:mukuljoshi.dev@gmail.com"><img src="https://img.shields.io/badge/mukuljoshi.dev@gmail.com-15223A?style=flat-square&logo=gmail&logoColor=E8EEF6" alt="Email"/></a>
   <a href="https://www.instagram.com/mukul8466/"><img src="https://img.shields.io/badge/Instagram-15223A?style=flat-square&logo=instagram&logoColor=E8EEF6" alt="Instagram"/></a>
   <img src="https://komarev.com/ghpvc/?username=MukulJoshi6312&style=flat-square&color=4C8EDA&label=profile+views" alt="Profile views"/>
 </p>
