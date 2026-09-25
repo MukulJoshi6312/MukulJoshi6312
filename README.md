@@ -41,8 +41,8 @@ Live: [Portfolio](https://mukuls-protfolio.vercel.app), [Startup Agency Site](ht
 ## Recently pushed
 
 <!-- RECENT:START -->
-- [**codeauditor**](https://github.com/MukulJoshi6312/codeauditor) <sub>TypeScript</sub> · pushed 6 weeks ago · [live](https://codeauditor-nine.vercel.app)
-- [**gymApp**](https://github.com/MukulJoshi6312/gymApp) <sub>TypeScript</sub> · pushed 6 weeks ago
+- [**codeauditor**](https://github.com/MukulJoshi6312/codeauditor) <sub>TypeScript</sub> · pushed 7 weeks ago · [live](https://codeauditor-nine.vercel.app)
+- [**gymApp**](https://github.com/MukulJoshi6312/gymApp) <sub>TypeScript</sub> · pushed 7 weeks ago
 - [**dpdp_backend**](https://github.com/MukulJoshi6312/dpdp_backend) <sub>Python</sub> · pushed 3 months ago
 - [**dpdp**](https://github.com/MukulJoshi6312/dpdp) <sub>TypeScript</sub> · pushed 3 months ago
 - [**website-builder**](https://github.com/MukulJoshi6312/website-builder) <sub>TypeScript</sub> · pushed 3 months ago
