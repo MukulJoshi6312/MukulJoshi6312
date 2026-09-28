@@ -46,7 +46,7 @@ Live: [Portfolio](https://mukuls-protfolio.vercel.app), [Startup Agency Site](ht
 - [**dpdp_backend**](https://github.com/MukulJoshi6312/dpdp_backend) <sub>Python</sub> · pushed 3 months ago
 - [**dpdp**](https://github.com/MukulJoshi6312/dpdp) <sub>TypeScript</sub> · pushed 3 months ago
 - [**website-builder**](https://github.com/MukulJoshi6312/website-builder) <sub>TypeScript</sub> · pushed 3 months ago
-- [**task-frontend**](https://github.com/MukulJoshi6312/task-frontend) <sub>TypeScript</sub> · pushed 3 months ago
+- [**task-frontend**](https://github.com/MukulJoshi6312/task-frontend) <sub>TypeScript</sub> · pushed 4 months ago
 <!-- RECENT:END -->
 
 <sub>Cards and this list rebuild themselves every day from my GitHub activity.</sub>
