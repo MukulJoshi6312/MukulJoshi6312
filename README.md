@@ -41,7 +41,7 @@ Live: [Portfolio](https://mukuls-protfolio.vercel.app), [Startup Agency Site](ht
 ## Recently pushed
 
 <!-- RECENT:START -->
-- [**DIWALI**](https://github.com/MukulJoshi6312/DIWALI) <sub>JavaScript</sub> · pushed 11 days ago · [live](https://diwali-lac.vercel.app)
+- [**DIWALI**](https://github.com/MukulJoshi6312/DIWALI) <sub>JavaScript</sub> · pushed 12 days ago · [live](https://diwali-lac.vercel.app)
 - [**codeauditor**](https://github.com/MukulJoshi6312/codeauditor) <sub>TypeScript</sub> · pushed 2 months ago · [live](https://codeauditor-nine.vercel.app)
 - [**gymApp**](https://github.com/MukulJoshi6312/gymApp) <sub>TypeScript</sub> · pushed 2 months ago
 - [**dpdp_backend**](https://github.com/MukulJoshi6312/dpdp_backend) <sub>Python</sub> · pushed 4 months ago
